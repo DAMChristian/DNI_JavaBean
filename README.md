@@ -6,8 +6,8 @@ _Componente que validad DNI_
 Componente jpanel que contiene una etiqueta con el nombre "DNI:" y un jtextfield el cual te permite introducir un DNI que te permitirá comprobar si es un número valido o no.
 
 Al perder el foco el número de DNI cambiara de color:
-    -Verde: Indica que el número es un numero valido.
 
+    -Verde: Indica que el número es un numero valido.
     -Rojo: Indica que el número es invalido.
 
 ## Requisitos 📋
